@@ -1,6 +1,6 @@
 ### WELCOME ###
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlrudgns6)](https://solved.ac/dlrudgns6)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Hoon_Code)](https://solved.ac/Hoon_Code)
 
 
 
