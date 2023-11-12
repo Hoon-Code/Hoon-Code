@@ -1,7 +1,7 @@
 ### WELCOME ###
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={Hoon-Code})](https://solved.ac/{Hoon-Code})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={Hoon-Code})](https://solved.ac/{dlrudgns6})
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={Hoon-Code})](https://solved.ac/{Hoon-Code})
 
