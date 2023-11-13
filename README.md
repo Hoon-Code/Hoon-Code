@@ -1,5 +1,5 @@
 ### WELCOME ###
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Hoon_code)](https://solved.ac/Hoon_code)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Hoon_Code)](https://solved.ac/Hoon_Code)
 
 
 
